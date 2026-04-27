@@ -1,0 +1,20 @@
+// Jest Snapshot v1, https://jestjs.io/docs/snapshot-testing
+
+exports[`Halaman Admin renders admin page correctly 1`] = `
+<DocumentFragment>
+  <div>
+    <div
+      class="admin"
+    >
+      <h1
+        data-testid="title"
+      >
+        Halaman Admin
+      </h1>
+      <p>
+        Selamat datang di halaman admin! Anda memiliki akses penuh ke semua fitur dan data di aplikasi ini. Di sini, Anda dapat mengelola pengguna, melihat laporan, dan melakukan tugas administratif lainnya. Pastikan untuk menggunakan hak akses Anda dengan bijak dan menjaga keamanan data pengguna.
+      </p>
+    </div>
+  </div>
+</DocumentFragment>
+`;

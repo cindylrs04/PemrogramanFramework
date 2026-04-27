@@ -1,0 +1,16 @@
+// Jest Snapshot v1, https://jestjs.io/docs/snapshot-testing
+
+exports[`Editor Page renders editor dashboard if role is editor 1`] = `
+<DocumentFragment>
+  <div
+    class="container"
+  >
+    <h1>
+      Dashboard Editor
+    </h1>
+    <p>
+      Selamat datang, Cindy. Anda memiliki akses khusus.
+    </p>
+  </div>
+</DocumentFragment>
+`;

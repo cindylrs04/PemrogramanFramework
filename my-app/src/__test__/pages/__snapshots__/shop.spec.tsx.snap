@@ -1,0 +1,15 @@
+// Jest Snapshot v1, https://jestjs.io/docs/snapshot-testing
+
+exports[`Halaman Toko match snapshot 1`] = `
+<DocumentFragment>
+  <div>
+    <h1>
+      Halaman Toko
+    </h1>
+    <p>
+      Toko: snapshot-test
+    </p>
+     
+  </div>
+</DocumentFragment>
+`;

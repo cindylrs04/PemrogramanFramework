@@ -1,0 +1,42 @@
+// Jest Snapshot v1, https://jestjs.io/docs/snapshot-testing
+
+exports[`Halaman 404 match snapshot 1`] = `
+<DocumentFragment>
+  <div
+    class="container"
+  >
+    <div
+      class="card"
+    >
+      <h1
+        class="title"
+      >
+        404
+      </h1>
+      <p
+        class="subtitle"
+      >
+        Halaman Tidak Ditemukan
+      </p>
+      <img
+        alt="404"
+        class="image"
+        data-nimg="1"
+        decoding="async"
+        height="200"
+        loading="lazy"
+        src="/_next/image?url=%2Fpage-not-found.png&w=828&q=75"
+        srcset="/_next/image?url=%2Fpage-not-found.png&w=640&q=75 1x, /_next/image?url=%2Fpage-not-found.png&w=828&q=75 2x"
+        style="color: transparent;"
+        width="400"
+      />
+      <a
+        class="button"
+        href="/"
+      >
+        Kembali ke Home
+      </a>
+    </div>
+  </div>
+</DocumentFragment>
+`;

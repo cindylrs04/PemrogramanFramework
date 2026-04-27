@@ -1,0 +1,32 @@
+// Jest Snapshot v1, https://jestjs.io/docs/snapshot-testing
+
+exports[`Halaman Profile renders user profile correctly 1`] = `
+<DocumentFragment>
+  <div
+    class="container"
+  >
+    <div
+      class="card"
+    >
+      <div
+        class="avatar"
+      >
+        C
+      </div>
+      <h2>
+        Cindy
+      </h2>
+      <p
+        class="email"
+      >
+        cindy@mail.com
+      </p>
+      <span
+        class="badge"
+      >
+        Active User
+      </span>
+    </div>
+  </div>
+</DocumentFragment>
+`;

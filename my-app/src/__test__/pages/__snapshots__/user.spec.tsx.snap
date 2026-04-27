@@ -1,0 +1,9 @@
+// Jest Snapshot v1, https://jestjs.io/docs/snapshot-testing
+
+exports[`User Setting Page match snapshot 1`] = `
+<DocumentFragment>
+  <div>
+    App Setting Page
+  </div>
+</DocumentFragment>
+`;

@@ -1,0 +1,44 @@
+.container {
+  min-height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background: linear-gradient(120deg, #89f7fe, #66a6ff);
+}
+
+.card {
+  background: white;
+  padding: 30px;
+  border-radius: 15px;
+  text-align: center;
+  width: 300px;
+  box-shadow: 0 10px 25px rgba(0,0,0,0.1);
+}
+
+.avatar {
+  width: 70px;
+  height: 70px;
+  background: #2563eb;
+  color: white;
+  font-size: 28px;
+  font-weight: bold;
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin: 0 auto 10px;
+}
+
+.email {
+  font-size: 14px;
+  color: gray;
+  margin-bottom: 10px;
+}
+
+.badge {
+  background: #dbeafe;
+  color: #1d4ed8;
+  padding: 5px 12px;
+  border-radius: 12px;
+  font-size: 12px;
+}

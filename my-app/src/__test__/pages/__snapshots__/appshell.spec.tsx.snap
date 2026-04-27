@@ -1,0 +1,18 @@
+// Jest Snapshot v1, https://jestjs.io/docs/snapshot-testing
+
+exports[`AppShell match snapshot 1`] = `
+<DocumentFragment>
+  <main
+    class="poppins-font"
+  >
+    <div
+      data-testid="navbar"
+    >
+      Navbar
+    </div>
+    <div>
+      Snapshot
+    </div>
+  </main>
+</DocumentFragment>
+`;

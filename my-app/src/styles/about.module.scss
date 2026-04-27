@@ -1,0 +1,34 @@
+.container {
+  min-height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background: linear-gradient(to right, #f8fafc, #e2e8f0);
+}
+
+.card {
+  background: white;
+  padding: 40px;
+  border-radius: 16px;
+  text-align: center;
+  box-shadow: 0 10px 25px rgba(0, 0, 0, 0.1);
+}
+
+.title {
+  font-size: 36px;      
+  font-weight: bold;    
+  margin-bottom: 20px;
+  color: #1e293b;
+}
+
+.image {
+  width: 250px;
+  display: block;
+  margin: 0 auto 20px;
+}
+
+.desc {
+  font-size: 16px;
+  color: #475569;
+  line-height: 1.6;
+}

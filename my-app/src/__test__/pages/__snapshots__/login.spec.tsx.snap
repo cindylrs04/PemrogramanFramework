@@ -1,0 +1,78 @@
+// Jest Snapshot v1, https://jestjs.io/docs/snapshot-testing
+
+exports[`Halaman Login renders login page correctly 1`] = `
+<DocumentFragment>
+  <div
+    class="login"
+  >
+    <h1
+      class="login__title"
+    >
+      Halaman Login
+    </h1>
+    <div
+      class="login__form"
+    >
+      <form
+        autocomplete="off"
+      >
+        <div
+          class="login__form__item"
+        >
+          <label
+            class="login__form__item__label"
+          >
+            Email
+          </label>
+          <input
+            autocomplete="email"
+            class="login__form__item__input"
+            name="email"
+            placeholder="Email"
+            type="email"
+          />
+        </div>
+        <div
+          class="login__form__item"
+        >
+          <label
+            class="login__form__item__label"
+          >
+            Password
+          </label>
+          <input
+            autocomplete="current-password"
+            class="login__form__item__input"
+            id="password"
+            name="password"
+            placeholder="password"
+            type="password"
+          />
+        </div>
+        <button
+          class="login__form__item__button"
+          type="submit"
+        >
+          login
+        </button>
+         
+        <br />
+         
+        <br />
+        <button
+          class="login__form__item__button"
+          type="button"
+        >
+          sign in with google
+        </button>
+      </form>
+      <br />
+      <p
+        class="login__form__item__text"
+      >
+        tidak punya  akun?  Ke Halaman Register
+      </p>
+    </div>
+  </div>
+</DocumentFragment>
+`;

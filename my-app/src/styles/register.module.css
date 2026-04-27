@@ -1,0 +1,25 @@
+.container {
+  display: flex;
+  flex-direction: column;
+  width: 300px;
+  margin: 50px auto;
+  gap: 10px;
+}
+
+.title {
+  text-align: center;
+  color: green;
+}
+
+.input {
+  padding: 8px;
+  border: 1px solid #ccc;
+}
+
+.button {
+  padding: 10px;
+  background-color: green;
+  color: white;
+  border: none;
+  cursor: pointer;
+}

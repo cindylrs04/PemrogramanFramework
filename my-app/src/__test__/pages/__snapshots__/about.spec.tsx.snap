@@ -1,0 +1,14 @@
+// Jest Snapshot v1, https://jestjs.io/docs/snapshot-testing
+
+exports[`About Page renders about page correctly 1`] = `
+<DocumentFragment>
+  <div>
+    <h1
+      class="title"
+      data-testid="title"
+    >
+      About Page
+    </h1>
+  </div>
+</DocumentFragment>
+`;

@@ -1,0 +1,14 @@
+// Jest Snapshot v1, https://jestjs.io/docs/snapshot-testing
+
+exports[`Halaman Blog Slug match snapshot 1`] = `
+<DocumentFragment>
+  <div>
+    <h1>
+      Halaman Slug
+    </h1>
+    <p>
+      Slug: snapshot-test
+    </p>
+  </div>
+</DocumentFragment>
+`;
